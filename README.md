@@ -29,12 +29,12 @@ links:    leetcode.com/natinael96
           linkedin.com/in/natinael-mequanent-b861492a5
 ```
 
-I write code that solves real problems —  
-clean architecture, sharp logic, zero fluff.
+I build things that live at the edge of hardware,  
+data, and the web — from ESP32 firmware streaming  
+biosignals to ML pipelines predicting blood pressure  
+in real time.
 
-From competitive programming and data structures  
-to full-stack apps and clean UIs,  
-**I care about the craft.**
+Full-stack by necessity, **systems thinker by nature.**
 
 <br clear="right"/>
 
@@ -44,30 +44,34 @@ to full-stack apps and clean UIs,
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Backend & APIs
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Databases
+### Data & ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Databases & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -84,13 +88,85 @@ to full-stack apps and clean UIs,
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [kanban-task-management](https://github.com/natinael96/kanban-task-management) | Task management app with drag-and-drop boards | Vue |
-| [job-listing](https://github.com/natinael96/job-listing) | Browse and filter job listings | TypeScript |
-| [blog-backend](https://github.com/natinael96/blog-backend) | RESTful blog API | Node.js / Express |
-| [DSA](https://github.com/natinael96/DSA) | Data structures & algorithms implementations | Python |
-| [Competitive-Programming](https://github.com/natinael96/Competitive-Programming) | LeetCode & competitive problem solving | Python |
+### 🩺 Blood Pressure Prediction — Final Year ML Project
+> **The headline.** End-to-end system predicting SBP/DBP from live ECG + PPG + accelerometer signals streamed from an ESP32 microcontroller. Signal preprocessing, feature engineering (PTT, HRV, PPG stats), multi-output RandomForest, FastAPI serving, and a real-time Next.js dashboard backed by Supabase.
+
+`Python` `FastAPI` `Next.js` `scikit-learn` `Supabase` `C++ (ESP32 firmware)`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/finalproj_ml)
+
+---
+
+### 💼 Job Board Platform — Backend API
+> Production-grade REST API built with Django. Full RBAC (Admin / Employer / Job Seeker), JWT auth, PostgreSQL with strategic indexing, Redis caching, rate limiting, Swagger docs, Docker + docker-compose, and a complete test suite with coverage reporting.
+
+`Python` `Django REST Framework` `PostgreSQL` `Redis` `Docker` `JWT`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/Job-Board-Platform-Backend-API)
+
+---
+
+### 🩸 Blood Donation Platform
+> TypeScript application connecting donors with recipients.
+
+`TypeScript`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/blood_donation)
+
+---
+
+### 📋 Kanban Task Management
+> Drag-and-drop task board with full board/column/card management.
+
+`Vue.js`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/kanban-task-management)
+
+---
+
+### 🌐 ALX Project Nexus — Frontend
+> ALX capstone frontend application.
+
+`TypeScript`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/alx-project-nexus-front)
+
+---
+
+### 🔗 GraphQL CRM
+> Django CRM with a full GraphQL API (queries + mutations via graphene-django), automated Celery tasks, Celery Beat scheduling, django-crontab jobs, and Redis. Covers customer/order/product management with stock alerts, weekly reports, and cleanup automation.
+
+`Python` `Django` `GraphQL` `Celery` `Redis` `PostgreSQL`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/alx-backend-graphql_crm)
+
+---
+
+### ⚡ Caching — Property Listings
+> Django application demonstrating Redis-backed caching strategies for property listing queries. Dockerised for easy local setup.
+
+`Python` `Django` `Redis` `Docker`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/alx-backend-caching_property_listings)
+
+---
+
+### 🔒 Backend Security — IP Tracking
+> Django security module implementing IP-based request tracking and access control middleware.
+
+`Python` `Django`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/alx-backend-security)
+
+---
+
+### 🧠 DSA & Competitive Programming
+> Implementations of data structures, algorithms, and LeetCode solutions — the foundation everything else is built on.
+
+`Python`
+
+[![DSA](https://img.shields.io/badge/DSA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/DSA)
+[![CP](https://img.shields.io/badge/Competitive_Programming-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natinael96/Competitive-Programming)
 
 ---
 
