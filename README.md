@@ -79,7 +79,6 @@ Full-stack by necessity, **systems thinker by nature.**
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=natinael96&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natinael96&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </div>
 
