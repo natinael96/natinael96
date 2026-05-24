@@ -28,11 +28,6 @@ links:    leetcode.com/natinael96
           linkedin.com/in/natinael-mequanent-b861492a5
 ```
 
-I build things that live at the edge of hardware,  
-data, and the web — from ESP32 firmware streaming  
-biosignals to ML pipelines predicting blood pressure  
-in real time.
-
 Full-stack by necessity, **systems thinker by nature.**
 
 <br clear="right"/>
