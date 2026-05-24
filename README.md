@@ -17,8 +17,6 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=natinael-mequanent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
 ### `> whoami`
 
 ```yaml
