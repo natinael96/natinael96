@@ -9,8 +9,8 @@
  ████╗  ██║██╔══██╗╚══██╔══╝██║████╗  ██║██╔══██╗██╔════╝██║
  ██╔██╗ ██║███████║   ██║   ██║██╔██╗ ██║███████║█████╗  ██║
  ██║╚██╗██║██╔══██║   ██║   ██║██║╚██╗██║██╔══██║██╔══╝  ██║
-      ██║ ╚████║██║  ██║   ██║   ██║██║ ╚████║██║  ██║███████╗███████╗
-      ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
+ ██║ ╚████║██║  ██║   ██║   ██║██║ ╚████║██║  ██║███████╗███████╗
+ ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
 </div>
@@ -158,8 +158,8 @@ leetcode: leetcode.com/natinael96
 
 ```diff
 + grinding  → leetcode.com/natinael96
-+ building  → [your current project — edit me]
-+ learning  → [what you're studying — edit me]
++ building  → blood pressure prediction · ESP32 × ML × real-time signals
++ learning  → system design · distributed systems · scaling things that break
   open_to   → collabs · open-source · interesting problems
 ```
 
@@ -170,7 +170,6 @@ leetcode: leetcode.com/natinael96
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=natinael96&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-
 </div>
 
 ---
