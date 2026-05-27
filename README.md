@@ -9,8 +9,8 @@
  ████╗  ██║██╔══██╗╚══██╔══╝██║████╗  ██║██╔══██╗██╔════╝██║
  ██╔██╗ ██║███████║   ██║   ██║██╔██╗ ██║███████║█████╗  ██║
  ██║╚██╗██║██╔══██║   ██║   ██║██║╚██╗██║██╔══██║██╔══╝  ██║
- ██║ ╚████║██║  ██║   ██║   ██║██║ ╚████║██║  ██║███████╗███████╗
- ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
+      ██║ ╚████║██║  ██║   ██║   ██║██║ ╚████║██║  ██║███████╗███████╗
+      ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
 </div>
@@ -170,7 +170,6 @@ leetcode: leetcode.com/natinael96
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=natinael96&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=natinael96&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=C9D1D9&text_color=8B949E" width="49%" />
 
 </div>
 
