@@ -63,7 +63,7 @@ Addis Ababa, Ethiopia 🇪🇹
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=natinael96&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="52%" />
+<img src="https://streak-stats.demolab.com?user=natinael96&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="52%" />
 
 <sub>*"First, solve the problem. Then, write the code."*</sub>
 
