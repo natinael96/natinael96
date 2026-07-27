@@ -1,12 +1,12 @@
-name: Generate snake animation
+name: Update profile assets
 
 on:
   schedule:
     - cron: "0 3 * * *" # every day at 03:00 UTC
   push:
     paths:
-      - ".github/workflows/snake.yml"
-  workflow_dispatch:
+      - ".github/workflows/profile-assets.yml"
+  workflow_dispatch: # run manually from the Actions tab
 
 jobs:
   build:
@@ -17,6 +17,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,10 +32,10 @@ jobs:
             profile/snake-dark.svg?color_snake=%2358a6ff&color_dots=%230d1117,%230e2a47,%23124b7f,%231f6feb,%2358a6ff
             profile/snake-light.svg?palette=github-light
 
-      - name: Commit snake
+      - name: Commit profile assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/snake-dark.svg profile/snake-light.svg
-          git commit -m "Update snake animation" || exit 0
+          git add profile/
+          git commit -m "Update profile assets" || exit 0
           git push
