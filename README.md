@@ -65,6 +65,12 @@ Addis Ababa, Ethiopia 🇪🇹
 
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="52%" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+  <img alt="contribution snake" src="./profile/snake-dark.svg" />
+</picture>
+
 <sub>*"First, solve the problem. Then, write the code."*</sub>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=natinael96.natinael96&left_color=grey&right_color=blue)
