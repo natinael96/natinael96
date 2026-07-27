@@ -63,7 +63,7 @@ Addis Ababa, Ethiopia 🇪🇹
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=natinael96&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="52%" />
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="52%" /></a>
 
 <sub>*"First, solve the problem. Then, write the code."*</sub>
 
